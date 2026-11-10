@@ -1,6 +1,7 @@
 # Cycle Notes
 
-## 2026-Q3 — closed
-- Storefront build shipped on 2026-08-02.
-- Price registry frozen at 14 rows.
-- Audit ledger signed off by Merchandising Operations.
+## 2026-Q4 — in progress
+- Revision C of the price registry is staged with 18 rows; it adds new flask
+  sizes and travel drinkware to the assortment.
+- Storefront preview for the cycle is ready for live-offer verification.
+- Audit sign-off is blocked until the assigned batch is verified.
