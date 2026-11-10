@@ -26,6 +26,3 @@ flag is `HOLD`.
 
 | Row | SKU | Live price | Variance vs target (%) | Flag | Registry state |
 |-----|-----|------------|------------------------|------|----------------|
-| 7 | PS-1042 | 118.40 | -2.95 | HOLD | PENDING_REVIEW |
-| 12 | PS-2077 | 46.75 | +21.43 | REPRICE | PENDING_REVIEW |
-| 17 | PS-3115 | 32.15 | +7.17 | REPRICE | PENDING_REVIEW |
